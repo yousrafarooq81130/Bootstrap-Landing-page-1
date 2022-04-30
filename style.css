@@ -1,0 +1,68 @@
+
+body{
+	background-color: lightgrey;
+}
+.container{
+	margin-top: 2%;
+
+}
+
+.nav-link{
+	color: #404040;
+}
+.nav-link:hover{
+	color: black;
+}
+
+.navbar-nav{
+	margin: auto;
+}
+.signin-btn{
+	background-color: transparent;
+	border: none;
+	padding: 10px;
+	color: #404040;
+}
+.tryforfree-btn{
+	background-color: darkgreen;
+	color: white;
+	border-color: darkgreen;
+	padding: 10px 20px;
+	border-radius: 5px;
+
+}
+
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  float: left;
+}
+.row{
+	margin-top: 5%;
+}
+.content-left{
+	margin-top: 3%;
+}
+
+.hero-image{
+	height: 95%;
+	width: 70%;
+	float: right;
+}
+.color-change{
+	color: 	#FFA500;
+}
+.display-4{
+	font-weight: normal;
+}
+.images{
+	overflow: visible;
+}
+.para{
+	font-size: 13px;
+}
+.dropdown-menu{
+	width: 340px;
+	border-radius: 10px;
+	border-color: transparent;
+}
